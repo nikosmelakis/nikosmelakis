@@ -26,13 +26,14 @@ My name is Nikos and this repository contains information about my programming s
 Studying Software Engineering at Hellenic Mediterranean University in Crete. 
 Currently working as an intern at BMI Lab based at HMU.
 
+Feel free to explore my repositories and projects to get a better understanding of my coding style and skills. If you have any questions or would like to collaborate on a project, please reach out to me at [nikolaosmelakis.com](https://nikolaosmelakis.com) or via email at info@nikolaosmelakis.com.
+
 ### Find Me
 
 [![My Skills](https://skillicons.dev/icons?i=activitypub,,)](https://nikolaosmelakis.com)
 [![My Skills](https://skillicons.dev/icons?i=stackoverflow,,)](https://stackoverflow.com/users/21795553/nikos-melakis)
-[![My Skills](https://skillicons.dev/icons?i=linkedinmm)](https://www.linkedin.com/in/nikos-melakis)
+[![My Skills](https://skillicons.dev/icons?i=linkedin,,)](https://www.linkedin.com/in/nikos-melakis)
 
 
-Feel free to explore my repositories and projects to get a better understanding of my coding style and skills. If you have any questions or would like to collaborate on a project, please reach out to me at [nikolaosmelakis.com](https://nikolaosmelakis.com) or via email at info@nikolaosmelakis.com.
 
 Thank you for visiting my profile!
