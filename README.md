@@ -5,7 +5,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=nikosmelakis)](https://github.com/nikosmelakis)
 
 
-### Programming Languages and Technologies
+### Skills
 
 #### Front-end Development
 [![My Skills](https://skillicons.dev/icons?i=bootstrap,,css,,html,,js,,react,,)]()
@@ -22,10 +22,13 @@
 
 
 ### About Me
-Studying Software Engineering at Hellenic Mediterranean University in Crete. 
-Currently working as an intern at BMI Lab based at HMU.
+Studying Software Engineering at Hellenic Mediterranean University. 
 
-Feel free to explore my repositories and projects to get a better understanding of my coding style and skills. If you have any questions or would like to collaborate on a project, please reach out to me at [nikolaosmelakis.com](https://nikolaosmelakis.com) or via email at info@nikolaosmelakis.com.
+### Experience
+Currently working as an intern at LATiCE BMI Laboratory at Hellenic Mediterranean University.
+
+Feel free to explore my repositories and projects to get a better understanding of my coding style and skills. 
+If you have any questions or would like to collaborate on a project, please reach out to me at [nikolaosmelakis.com](https://nikolaosmelakis.com) or via email at info@nikolaosmelakis.com.
 
 ### Find Me
 
