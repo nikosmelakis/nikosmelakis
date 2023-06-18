@@ -23,7 +23,7 @@ My name is Nikos and this repository contains information about my programming s
 
 ### Programming Languages and Technologies
 
-## Front-end Development
+#### Front-end Development
 
 [![My Skills](https://skillicons.dev/icons?i=html,,css,,js,,react)](https://nikolaosmelakis.com)
 
