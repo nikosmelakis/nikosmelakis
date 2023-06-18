@@ -9,11 +9,9 @@ My name is Nikos and this repository contains information about my programming s
 ### Programming Languages and Technologies
 
 #### Front-end Development
-
 [![My Skills](https://skillicons.dev/icons?i=bootstrap,,css,,html,,js,,react,,)]()
 
 #### Back-end Development
-
 [![My Skills](https://skillicons.dev/icons?i=java,,mongodb,,mysql,,php,,postgres,,postman,,sqlite,,)]()
 
 #### Other Technologies
