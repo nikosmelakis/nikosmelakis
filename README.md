@@ -10,18 +10,20 @@ My name is Nikos and this repository contains information about my programming s
 
 #### Front-end Development
 
-[![My Skills](https://skillicons.dev/icons?i=html,,css,,js,,react)](https://nikolaosmelakis.com)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,,css,,html,,js,,react,,)]()
 
 #### Back-end Development
 
-[![My Skills](https://skillicons.dev/icons?i=java,,php,,nodejs,,mongodb,,mysql)](https://nikolaosmelakis.com)
+[![My Skills](https://skillicons.dev/icons?i=java,,mongodb,,mysql,,php,,postgres,,postman,,sqlite,,)]()
 
 #### Other Technologies
-[![My Skills](https://skillicons.dev/icons?i=flutter,,dart,,c,,cpp,,cs,,octave,,postgres,,py,,sqlite)](https://nikolaosmelakis.com)
-
+[![My Skills](https://skillicons.dev/icons?i=bash,,c,,cs,,cpp,,dart,,flutter,,matlab,,octave,,py,,)]()
 
 #### Tools 
-[![My Skills](https://skillicons.dev/icons?i=ps,,unity,,vscode,,wordpress,,)](https://nikolaosmelakis.com)
+[![My Skills](https://skillicons.dev/icons?i=adonis,,arduino,,figma,,ps,,unity,,)]()
+
+### Editors i use
+[![My Skills](https://skillicons.dev/icons?i=idea,,vscode,,androidstudio,,xcode,,wordpress)](https://nikolaosmelakis.com)
 
 
 ### About Me
