@@ -1,6 +1,5 @@
 ## Welcome to my GitHub Profile
-
-#### My name is Nikos and this repository contains information about my programming skills and knowledge. 
+### My name is Nikos and this repository contains information about my programming skills and knowledge. 
 
 
 [![Profile Views](https://komarev.com/ghpvc/?username=nikosmelakis)](https://github.com/nikosmelakis)
