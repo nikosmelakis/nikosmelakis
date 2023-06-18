@@ -15,27 +15,27 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Welcome to my GitHub Profile
+## Welcome to my GitHub Profile
 
 [![Profile Views](https://komarev.com/ghpvc/?username=nikosmelakis)](https://github.com/nikosmelakis)
 
 My name is Nikos and this repository contains information about my programming skills and knowledge. 
 
-## Programming Languages and Technologies
+### Programming Languages and Technologies
 
 ## Front-end Development
 
 [![My Skills](https://skillicons.dev/icons?i=html,,css,,js,,react)](https://nikolaosmelakis.com)
 
-## Back-end Development
+### Back-end Development
 
 [![My Skills](https://skillicons.dev/icons?i=java,,php,,nodejs,,mongodb,,mysql)](https://nikolaosmelakis.com)
 
-## Other Technologies
+### Other Technologies
 [![My Skills](https://skillicons.dev/icons?i=flutter,,dart,,c,,cpp,,cs,,octave,,postgres,,py,,sqlite)](https://nikolaosmelakis.com)
 
 
-## Tools 
+### Tools 
 [![My Skills](https://skillicons.dev/icons?i=ps,,unity,,vscode,,wordpress,,)](https://nikolaosmelakis.com)
 
 
