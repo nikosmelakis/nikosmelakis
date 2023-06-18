@@ -30,8 +30,8 @@ Feel free to explore my repositories and projects to get a better understanding 
 
 ### Find Me
 
-[![My Skills](https://skillicons.dev/icons?i=activitypub)](https://nikolaosmelakis.com)
-[![My Skills](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/21795553/nikos-melakis)
+[![My Skills](https://skillicons.dev/icons?i=activitypub,)](https://nikolaosmelakis.com)
+[![My Skills](https://skillicons.dev/icons?i=stackoverflow,)](https://stackoverflow.com/users/21795553/nikos-melakis)
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/nikos-melakis)
 
 
