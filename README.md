@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **nikosmelakis/nikosmelakis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 ## Welcome to my GitHub Profile
 
@@ -27,19 +27,19 @@ My name is Nikos and this repository contains information about my programming s
 
 [![My Skills](https://skillicons.dev/icons?i=html,,css,,js,,react)](https://nikolaosmelakis.com)
 
-### Back-end Development
+#### Back-end Development
 
 [![My Skills](https://skillicons.dev/icons?i=java,,php,,nodejs,,mongodb,,mysql)](https://nikolaosmelakis.com)
 
-### Other Technologies
+#### Other Technologies
 [![My Skills](https://skillicons.dev/icons?i=flutter,,dart,,c,,cpp,,cs,,octave,,postgres,,py,,sqlite)](https://nikolaosmelakis.com)
 
 
-### Tools 
+#### Tools 
 [![My Skills](https://skillicons.dev/icons?i=ps,,unity,,vscode,,wordpress,,)](https://nikolaosmelakis.com)
 
 
-## About Me
+### About Me
 Studying Software Engineering at Hellenic Mediterranean University in Crete. 
 Currently working as an intern at BMI Lab based at HMU.
 
