@@ -1,6 +1,7 @@
 ## Welcome to my GitHub Profile
 ### My name is Nikos and this repository contains information about my programming skills and knowledge. 
-
+Feel free to explore my repositories and projects to get a better understanding of my coding style and skills. 
+If you have any questions or would like to collaborate on a project, please reach out to me at [nikolaosmelakis.com](https://nikolaosmelakis.com) or via email at info@nikolaosmelakis.com.
 
 [![Profile Views](https://komarev.com/ghpvc/?username=nikosmelakis)](https://github.com/nikosmelakis)
 
@@ -27,8 +28,6 @@ Studying Software Engineering at Hellenic Mediterranean University.
 ### Experience
 Currently working as an intern at LATiCE BMI Laboratory at Hellenic Mediterranean University.
 
-Feel free to explore my repositories and projects to get a better understanding of my coding style and skills. 
-If you have any questions or would like to collaborate on a project, please reach out to me at [nikolaosmelakis.com](https://nikolaosmelakis.com) or via email at info@nikolaosmelakis.com.
 
 ### Find Me
 
