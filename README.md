@@ -17,7 +17,7 @@ My name is Nikos and this repository contains information about my programming s
 [![My Skills](https://skillicons.dev/icons?i=java,,mongodb,,mysql,,php,,postgres,,postman,,sqlite,,)]()
 
 #### Other Technologies
-[![My Skills](https://skillicons.dev/icons?i=bash,,c,,cs,,cpp,,dart,,flutter,,matlab,,octave,,py,,)]()
+[![My Skills](https://skillicons.dev/icons?i=bash,,c,,cs,,dart,,flutter,,matlab,,octave,,py,,)]()
 
 #### Tools 
 [![My Skills](https://skillicons.dev/icons?i=adonis,,arduino,,figma,,ps,,unity,,)]()
