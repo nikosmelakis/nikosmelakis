@@ -23,7 +23,7 @@ My name is Nikos and this repository contains information about my programming s
 [![My Skills](https://skillicons.dev/icons?i=adonis,,arduino,,figma,,ps,,unity,,)]()
 
 ### Editors i use
-[![My Skills](https://skillicons.dev/icons?i=idea,,vscode,,androidstudio,,xcode,,wordpress)](https://nikolaosmelakis.com)
+[![My Skills](https://skillicons.dev/icons?i=idea,,vscode,,androidstudio,,wordpress)](https://nikolaosmelakis.com)
 
 
 ### About Me
