@@ -28,9 +28,9 @@ Currently working as an intern at BMI Lab based at HMU.
 
 ### Find Me
 
-[![My Skills](https://skillicons.dev/icons?i=activitypub)](https://nikolaosmelakis.com)
-[![My Skills](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/21795553/nikos-melakis)
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/nikos-melakis)
+[![My Skills](https://skillicons.dev/icons?i=activitypub,,)](https://nikolaosmelakis.com)
+[![My Skills](https://skillicons.dev/icons?i=stackoverflow,,)](https://stackoverflow.com/users/21795553/nikos-melakis)
+[![My Skills](https://skillicons.dev/icons?i=linkedinmm)](https://www.linkedin.com/in/nikos-melakis)
 
 
 Feel free to explore my repositories and projects to get a better understanding of my coding style and skills. If you have any questions or would like to collaborate on a project, please reach out to me at [nikolaosmelakis.com](https://nikolaosmelakis.com) or via email at info@nikolaosmelakis.com.
