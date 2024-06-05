@@ -9,7 +9,7 @@ If you have any questions or would like to collaborate on a project, please reac
 ### Skills
 
 #### Front-end Development
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,,css,,html,,js,,react,,)]()
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,,css,,html,,js,,,,)]()
 
 #### Back-end Development
 [![My Skills](https://skillicons.dev/icons?i=java,,mongodb,,mysql,,php,,postgres,,postman,,sqlite,,)]()
