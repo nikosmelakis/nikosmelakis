@@ -10,6 +10,15 @@ This profile showcases my programming skills, technical projects, and contributi
 
 ---
 
+## 👨‍💼 About Me
+
+- 💼 Working at **Coca-Cola HBC** as a **Digital Workplace Technology Expert**
+- 🎓 Postgraduate student at **Hellenic Mediterranean University** (Department of Informatics Engineering)
+- 🔬 Former intern at **LATiCE BMI Lab**, working on bioinformatics and human-computer interaction
+- 💡 Passionate about cross-platform development, workplace automation, and emerging technologies
+
+---
+
 ## 🚀 Skills & Technologies
 
 ### 🖥️ Front-End Development  
