@@ -35,15 +35,6 @@ This profile showcases my programming skills, technical projects, and contributi
 
 ---
 
-## 👨‍💼 About Me
-
-- 💼 Working at **Coca-Cola HBC** as a **Digital Workplace Technology Expert**
-- 🎓 Postgraduate student at **Hellenic Mediterranean University** (Department of Informatics Engineering)
-- 🔬 Former intern at **LATiCE BMI Lab**, working on bioinformatics and human-computer interaction
-- 💡 Passionate about cross-platform development, workplace automation, and emerging technologies
-
----
-
 ## 🌐 Connect with Me
 
 [![Website](https://img.shields.io/badge/Portfolio-nikosmelakis.com-0A66C2?style=flat-square&logo=internetexplorer&logoColor=white)](https://nikosmelakis.com)  
